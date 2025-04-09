@@ -18,3 +18,13 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 **Power BI**: DAX, Power Query, Data Modeling  
 **Python**: Pandas, NumPy, MatPlotLib, Seaborn  
 **Machine Learning**: Unsupervised Learning & Supervised Learning with Scikit-learn
+
+## 🔗 MY PROJECT 👇👇👇
+
+<table>
+  <tr>
+    <td width="50%">
+      🚍 <b>[SQL vs Excel - Adidash Sales Performance Insights](your-link)</b><br>
+      Performed an analysis of e-commerce data utilizing SQL on Google BigQuery, extracting actionable insights to guide strategic business decisions.
+    </td>
+    <td width="50%">

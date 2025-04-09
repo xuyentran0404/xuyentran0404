@@ -24,11 +24,23 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 
 <table>
   <tr>
-    <td width="50%">
-      🛢️ <b><a href="https://github.com/xuyentran0404/SQL-Excel-Adidas-Sales-Performance-Insights">SQL vs Excel Dashboard - Adidas Sales Performance Insights</a></b><br>
-      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
+    <td width="50%" style="background-color: #000; padding: 16px; border-radius: 10px;">
+      🛢️ <b>
+        <a href="https://github.com/xuyentran0404/SQL-Excel-Adidas-Sales-Performance-Insights" 
+           style="color: #ff7eb9; font-size: 20px; text-decoration: none;">
+          SQL vs Excel Dashboard - Adidas Sales Performance Insights
+        </a>
+      </b><br><br>
+      <span style="color: #f0f0f0; font-size: 16px;">
+        In this project, I analyze sales data from Adidas to gain insights into 
+        <b>product performance</b>, <b>regional trends</b>, and <b>operational efficiency</b>.
+      </span>
     </td>
     <td width="50%">
+    </td>
+  </tr>
+</table>
+
 
 
 

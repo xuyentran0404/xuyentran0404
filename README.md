@@ -23,19 +23,9 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 
 <table>
   <tr>
-    <td width="48%" style="background-color:#1E1E2F; padding:15px; border-radius:15px; color:white; vertical-align:top">
-      <b>🚍 <a href="https://github.com/yourusername/adidas-sql-vs-excel" style="color:#FF69B4;">SQL vs Excel - Adidas Sales Performance Insights</a></b><br>
-      <p style="margin-top:10px;">
-        Analyzed Adidas sales data to uncover product performance, regional sales trends, and operational insights using both SQL and Excel.
-      </p>
+    <td width="50%">
+      🚍 <b>[SQL vs Excel - Adidash Sales Performance Insights]</b><br>
+      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
     </td>
-    <td width="4%"></td> <!-- spacing between cards -->
-    <td width="48%" style="background-color:#1E1E2F; padding:15px; border-radius:15px; color:white; vertical-align:top">
-      <b>📊 <a href="https://github.com/yourusername/powerbi-superstore" style="color:#FF69B4;">Power BI - Superstore Sales Dashboard</a></b><br>
-      <p style="margin-top:10px;">
-        Built an interactive Power BI dashboard to support executive decision-making with actionable market and product insights.
-      </p>
-    </td>
-  </tr>
-</table>
+    <td width="50%">
 

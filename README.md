@@ -25,6 +25,6 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
   <tr>
     <td width="50%">
       🚍 <b>[SQL vs Excel - Adidash Sales Performance Insights](your-link)</b><br>
-      Performed an analysis of e-commerce data utilizing SQL on Google BigQuery, extracting actionable insights to guide strategic business decisions.
+      In this project, we analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
     </td>
     <td width="50%">

@@ -21,12 +21,10 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 
 ## 🔗 MY PROJECT 👇👇👇
 
-<div style="background-color:#1E1E2F; padding:20px; border-radius:15px; color:white; font-family:Arial;">
-  <b>🚍 <a href="https://github.com/yourusername/adidas-sql-vs-excel" style="color:#FF69B4; font-size:18px;">
-    SQL vs Excel - Adidas Sales Performance Insights
-  </a></b>
-  <p style="margin-top:10px; font-size:14px;">
-    In this project, I analyze Adidas sales data using both SQL and Excel to uncover key insights into product performance, regional sales patterns, and operational efficiency.
-  </p>
-</div>
-
+<table>
+  <tr>
+    <td width="50%">
+      🚍 <b>[SQL vs Excel - Adidash Sales Performance Insights]</b><br>
+      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
+    </td>
+    <td width="50%">

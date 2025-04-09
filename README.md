@@ -24,7 +24,7 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 <table>
   <tr>
     <td width="50%">
-      🚍 <b>[SQL vs Excel - Adidash Sales Performance Insights](your-link)</b><br>
+      🚍 <b>[SQL vs Excel - Adidash Sales Performance Insights]</b><br>
       In this project, we analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
     </td>
     <td width="50%">

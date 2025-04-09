@@ -4,7 +4,7 @@
 
 ---
 
-I am a detail-oriented and results-driven professional seeking a challenging Data Analyst or Business Intelligence role in a dynamic organization. With expertise in data mining, statistical modeling, and data visualization, I leverage my business acumen and analytical skills to drive data-informed decision-making. Proficient in SPSS, R, Python, SQL, and Power BI, I am passionate about delivering impactful insights that enhance operational efficiency and drive business growth. I aspire to bridge the gap between global corporations and Vietnamese culture while supporting the globalization of Vietnamese businesses through data-driven strategies and market insights.
+I am a detail-oriented and results-driven professional seeking a challenging Data Analyst or Business Intelligence role in a dynamic organization. With expertise in data mining, statistical modeling, and data visualization, I leverage my business acumen and analytical skills to drive data-informed decision-making. Proficient in SQL, Excel, Power BI, and Python, I am passionate about delivering impactful insights that enhance operational efficiency and drive business growth. I aspire to bridge the gap between global corporations and Vietnamese culture while supporting the globalization of Vietnamese businesses through data-driven strategies and market insights.
 
 _"I'm always excited to connect with fellow data enthusiasts and learn together on this journey into the world of insights and innovation!"_
 

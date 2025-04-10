@@ -35,6 +35,12 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td width="50%">
+      🟨<b><a href="https://github.com/xuyentran0404/Power-BI-Global-Superstore-dataset">[Power BI] Global-Superstore-dataset</a></b><br>
+      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
+    </td>
+    <td width="50%">
 
 

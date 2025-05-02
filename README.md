@@ -30,7 +30,7 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
     </td>
     <td width="50%">
       🛢️ <b><a href="https://github.com/xuyentran0404/SQL-Ad-hoc-Retail-Sales-Returns-Analytics-Dataset">[SQL Ad_hoc] Retail Sales Returns Analytics Dataset</a></b><br>
-      A deep dive into Adidas product portfolio using SQL to identify top-performing models and underperforming products for strategic decision-making.
+      A deep dive into Adidas' product portfolio using SQL to identify top-performing models and underperforming products for strategic decision-making.
     </td>
   </tr>
 </table>
@@ -42,5 +42,10 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
       In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
     </td>
     <td width="50%">
+      🛢️<b><a href="https://github.com/xuyentran0404/SQL-Ecommerce-Order-Supply-Chain-Analytics-Project">[SQL] Ecommerce-Order-Supply-Chain-Analytics-Project</a></b><br>
+      In this project, I explore the E-Commerce Order and Supply Chain Dataset to uncover trends, inefficiencies, and business opportunities hidden in transactional and logistics data.
+    </td>
+  </tr>
+</table>
 
 

@@ -21,6 +21,18 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 
 ## 🔗 MY PROJECT 👇👇👇
 
+<table>
+  <tr>
+    <td width="50%">
+      🛢️ <b><a href="https://github.com/xuyentran0404/Python_RFM_Analysis">[Python] RFM Analysis </a></b><br>
+      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
+    </td>
+    <td width="50%">
+      🛢️ <b><a href="https://github.com/xuyentran0404/Python_Cohort_Analysis">[Python] Cohort Analysis </a></b><br>
+      A deep dive into Adidas' product portfolio using SQL to identify top-performing models and underperforming products for strategic decision-making.
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>

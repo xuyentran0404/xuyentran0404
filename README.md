@@ -13,7 +13,7 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
 
 ## 💻 TOOLS:
 
-**SQL**: SQL Server Management Studio, MySQL, Google BigQuery  
+**SQL**: SQL Server Management Studio, MySQL, PostgreSQL, Google BigQuery  
 **Excel**: Pivot Table, VBA, Dashboard  
 **Power BI**: DAX, Power Query, Data Modeling  
 **Python**: Pandas, NumPy, MatPlotLib, Seaborn  

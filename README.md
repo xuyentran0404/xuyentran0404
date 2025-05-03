@@ -25,11 +25,11 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
   <tr>
     <td width="50%">
       🛢️ <b><a href="https://github.com/xuyentran0404/Python_RFM_Analysis">[Python] RFM Analysis </a></b><br>
-      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
+    Conduct the RFM model to segment customers and support the development of an effective campaign strategy
     </td>
     <td width="50%">
       🛢️ <b><a href="https://github.com/xuyentran0404/Python_Cohort_Analysis">[Python] Cohort Analysis </a></b><br>
-      A deep dive into Adidas' product portfolio using SQL to identify top-performing models and underperforming products for strategic decision-making.
+      Using Python to analyze transaction data to evaluate user engagement from the customer's first transaction
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
     </td>
     <td width="50%">
       🛢️ <b><a href="https://github.com/xuyentran0404/SQL-Ad-hoc-Retail-Sales-Returns-Analytics-Dataset">[SQL Ad_hoc] Retail Sales Returns Analytics Dataset</a></b><br>
-      A deep dive into Adidas' product portfolio using SQL to identify top-performing models and underperforming products for strategic decision-making.
+      A deep dive into the Retail Sales product portfolio using SQL to identify top-performing models and underperforming products for strategic decision-making.
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ _"I'm always excited to connect with fellow data enthusiasts and learn together 
   <tr>
     <td width="50%">
       🟨<b><a href="https://github.com/xuyentran0404/Power-BI-Global-Superstore-dataset">[Power BI] Amazon-Global-Superstore-dataset</a></b><br>
-      In this project, I analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.
+      Developed a comprehensive Power BI dashboard to provide senior management with critical business insights for market expansion strategies and strategic product selection.
     </td>
     <td width="50%">
       🛢️<b><a href="https://github.com/xuyentran0404/SQL-Ecommerce-Order-Supply-Chain-Analytics-Project">[SQL] Ecommerce-Order-Supply-Chain-Analytics-Project</a></b><br>
